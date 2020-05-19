@@ -1,1 +1,1 @@
-* * * * * /root/Lab6_183/part1.sh
+* * * * * /root/lab6/part1.sh
